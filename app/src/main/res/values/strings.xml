@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">selfchat</string>
+    <string name="edit_msg">Whatcha sayin?</string>
+    <string name="Button_send">Send</string>
+</resources>
